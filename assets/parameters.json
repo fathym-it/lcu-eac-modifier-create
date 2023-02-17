@@ -1,7 +1,2 @@
 {
-  "TEMPLATE_URL": {
-    "type": "input",
-    "message": "Enter the template URL:",
-    "optional": true
-  }
 }

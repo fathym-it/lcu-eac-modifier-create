@@ -1,13 +1,12 @@
 {
   "Modifiers": {
     "markdown-to-html": {
-      "Details": "{\"TemplateURL\":\"{{TEMPLATE_URL}}\"}",
+      "Details": "{}",
       "Enabled": true,
       "Name": "Markdown to HTML",
       "PathFilterRegex": ".*.(md|mdx).*",
       "Priority": 13000,
-      "Type": "LCU.Runtime.Applications.Modifiers.MarkdownToHtmlDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "SkipProject": true
+      "Type": "LCU.Runtime.Applications.Modifiers.MarkdownToHtmlDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }
   }
 }
