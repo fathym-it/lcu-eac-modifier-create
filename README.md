@@ -1,1 +1,1 @@
-# lcu-eac-modifier-markdown-to-html-ensure
+# lcu-eac-modifier-markdown-to-html
