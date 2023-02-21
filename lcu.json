@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Create New DFS Modifier",
-    "Description": "An LCU for creating a new DFS Modifier record.",
+    "Name": "Create New Markdown to HTML DFS Modifier",
+    "Description": "An LCU for creating a new Markdown to HTML DFS Modifier record.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
     "SkipProject": true
